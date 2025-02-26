@@ -1,5 +1,5 @@
 # Global_wheat_detection
-# Global Wheat Detection
+
 
 ## Overview
 This project focuses on detecting wheat heads in images using machine learning techniques. It is based on the **Global Wheat Detection** dataset from Kaggle. The goal is to develop an accurate model that can identify wheat heads in various field conditions.
